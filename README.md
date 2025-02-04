@@ -1,6 +1,6 @@
 # THOJ
 
-THOJ is a web application for problem/contest hosting and judging code written by Tommy Shan and Harry Xu for the ICS3U6 Computer Science course at Richmond Hill High School.
+Tommy-Harry Online Judge (THOJ) is a web application for problem/contest hosting and judging code written by Tommy Shan and Harry Xu for the ICS3U6 Computer Science course at Richmond Hill High School.
 
 ## Inspiration
 
